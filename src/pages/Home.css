@@ -1,0 +1,69 @@
+
+
+.navbarhome{
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+}
+
+.heading{
+    margin-left: 40px;
+    font-size: 90px;
+}
+.imagecarosal{
+    padding-top: 100px;
+}
+
+.footercontent{
+    font-family: 'Times New Roman', Times, serif; 
+   padding: 10px;
+}
+.footerbody{
+    margin-top: 50px;
+}
+.footerlink{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.copyright{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.homeRow{
+    width: 100%;
+    height: 10px;
+}
+#homebird{
+    width: 100%;
+   padding-top:10px;
+   padding-bottom:50px;
+   margin-top: 10%;
+   margin-bottom: 10px;
+}
+
+.homecarosal{
+    padding-bottom: 50%;
+}
+
+
+.homeimg1{
+    width: 100%;
+    height: 600px;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+
+.homeimg2{
+    width: 100%;
+    height: 500px;
+    overflow-y: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.homecarosal{
+    margin-top: 500px;
+}

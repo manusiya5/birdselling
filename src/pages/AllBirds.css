@@ -1,0 +1,52 @@
+#bird{
+    width: 100%;
+   padding-top:10px;
+   padding-bottom:50px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Preahvihear', sans-serif; 
+   
+}
+.homeButton{
+    margin-left: 90%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.AddBirds{
+   
+    padding-left: 480px;
+   
+}
+
+
+/* video:hover{
+    transform:scale(1.1);
+    z-index:1;
+    padding-left: 1%;
+} */
+video{
+    padding:5%;
+    box-sizing: border-box;
+}
+Link{
+    color:brown;
+}
+  
+.allDetail{
+    align-self: center;
+    border-radius: 5px;
+    background-color:rgb(30, 146, 192)
+    
+}
+
+.searchbox{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2W4TQazPvwhSp8PAOf4mNRo8H3x3uAGKHg&s");
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    background-size: 50px 50px;
+}

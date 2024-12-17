@@ -1,0 +1,32 @@
+
+ 
+  .login {
+    position: absolute;
+    color:rgb(59, 50, 59);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+   
+    border-radius: 8px;
+   
+  }
+  .loginButton{
+   margin-left: 25%;
+    width: 50%;
+    margin-bottom: 25px;
+  }
+  .login{
+    border: 1px solid black;
+   padding: 100px;
+   padding-right: 100px;
+   padding-bottom: 10px;
+   padding-top: 30px;
+  }
+  .ip{
+    padding: 5px;
+    padding-left: 10px;
+   width: 40%;
+   
+  }
+  

@@ -1,0 +1,22 @@
+.contactForm{
+    text-align: center;
+   margin: 250px;
+   margin-top: 10px;
+   margin-bottom: 100px;
+   background-color: white;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.contactPage{
+     align-items: center;
+}
+.userName,
+.userMail,
+.message{
+    width: 60%;
+    border-radius: 5px;
+}
+.messageSubmit{
+    align-self: center;
+    border-radius: 5px;
+}

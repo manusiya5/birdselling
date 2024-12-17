@@ -1,0 +1,39 @@
+.detail{
+    padding: 30px;
+   margin-left: 600px;
+    border-radius: 5px;
+}
+.ReportButton{
+    align-items: center;
+    color: rgb(245, 235, 220);
+    background-color: rgb(178, 133, 184);
+    padding: 15px;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin-bottom: 100%;
+
+}
+.reportdates{
+    padding-bottom: 200px;
+    margin-left: 450px;
+    padding-top: 100px;
+}
+.report{
+    background-color: rgb(151, 179, 230);
+}
+.reportTitle{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(38, 102, 158);
+}
+.dates{
+    padding-left: 450px;
+    padding-bottom: 5px;
+}
+.thank{
+    padding: 30px;
+    color: rgb(150, 39, 57);
+}
+.contactbtn{
+    margin-bottom: 100%;
+}
